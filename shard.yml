@@ -1,0 +1,9 @@
+name: airtable
+version: 0.1.0
+
+authors:
+  - Tom Richards <>
+
+crystal: 0.24.2
+
+license: MIT
