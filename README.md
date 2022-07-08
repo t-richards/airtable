@@ -2,7 +2,7 @@
 
 Crystal bindings to the Airtable API.
 
-:warning: This shard is in development! Expect bugs.
+:warning: This shard is no longer maintained. :warning:
 
 ## Installation
 
